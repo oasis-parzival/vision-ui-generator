@@ -40,7 +40,7 @@
 
 ## 🌐 Live Demo
 
-[👉 Click here to try Vision UI Generator](https://yourprojectlink.com)
+[👉 Click here to try Vision UI Generator](https://oasis-parzival.github.io/vision-ui-generator/)
 
 ---
 
