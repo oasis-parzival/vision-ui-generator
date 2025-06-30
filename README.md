@@ -1,6 +1,6 @@
 # Vision UI Generator
 
-**Vision UI Generator** is a powerful AI tool that allows users to **generate complete HTML/CSS/JS code** from either **text prompts** or **UI screenshots**. It combines **vision support** from GPT-4o and **code generation power** of Claude 3.5 Sonnet, offering a smooth, intuitive development experience.
+**Vision UI Generator** is a powerful AI tool that allows users to **generate complete HTML/CSS/JS code** from either **text prompts** or **UI screenshots**. It combines **vision support** and **code generation power** of GPT-4o, offering a smooth, intuitive development experience.
 
 ---
 
