@@ -8,7 +8,6 @@
 
 - 🧠 **AI-Powered Vision Input**: Upload UI screenshots to generate structured frontend code.
 - 💬 **Text Prompt Support**: Describe your UI and get instant HTML/CSS/JS output.
-- 🤖 **Dual-Model Integration**: GPT-4o for image understanding, Claude 3.5 Sonnet for cleaner code.
 - 💻 **Preview & Export**: Live preview of your UI and one-click copy/download options.
 - 🎨 **Minimal UI**: Clean, responsive interface for a distraction-free workflow.
 
