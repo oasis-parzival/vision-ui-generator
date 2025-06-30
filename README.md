@@ -17,8 +17,8 @@
 ## 🛠️ Built With
 
 - **HTML, CSS, JavaScript** – For frontend and logic.
-- **OpenAI GPT-4o** – For image input (vision-based UI).
-- **Anthropic Claude 3.5 Sonnet** – For accurate and optimized code generation.
+- **OpenAI GPT-4o** – For image input (vision-based UI) and accurate and optimized code generation.
+
 
 ---
 
